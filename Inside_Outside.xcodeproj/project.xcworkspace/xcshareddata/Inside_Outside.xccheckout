@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A031F527-9CE4-40AA-BF5F-C5DFA9F3E9F6</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2F210AAA7F2F62519159C75080507D92C1F929CB</key>
+		<string>github.com:morethanlogic/ofxMtlMapping2D.git</string>
+		<key>7E804D925461714118DB355C65BC964B41D94376</key>
+		<string>github.com:rezaali/ofxUI.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2F210AAA7F2F62519159C75080507D92C1F929CB</key>
+		<string>ofxMtlMapping2D/</string>
+		<key>7E804D925461714118DB355C65BC964B41D94376</key>
+		<string>ofxUI/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:rezaali/ofxUI.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7E804D925461714118DB355C65BC964B41D94376</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2F210AAA7F2F62519159C75080507D92C1F929CB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxMtlMapping2D</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7E804D925461714118DB355C65BC964B41D94376</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxUI</string>
+		</dict>
+	</array>
+</dict>
+</plist>
